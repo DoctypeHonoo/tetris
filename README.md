@@ -56,7 +56,7 @@ Notre Tetris possède un Debug mode totallement fonctionnel, mais la version gra
 ```bash
 $ ./tetris -D
 ```
-Pour modifier tout autres paramètres, il suffit d'utiliser le - associer : 
+Pour modifier tout autres paramètres, il suffit d'utiliser le - associé : 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91092610/174747739-a1630497-701d-4fba-b893-ebb43d89e758.png">
 </p>
