@@ -36,18 +36,16 @@ La deuxième partie est bien évidemment la partie graphique et donc le jeu en l
 
 Ouvrez un terminal et dirigez vous ou vous souhaitez que le projet soit installé, puis exécutez les commandes suivantes : 
 ```bash
-$ git clone git@github.com:EpitechPromo2026/B-CPE-201-MPL-2-1-corewar-hippolyte.aubert.git
-$ cd B-CPE-201-MPL-2-1-corewar-hippolyte.aubert
+$ git clone git@github.com:DoctypeHonoo/tetris.git
+$ cd tetris
 $ make
 ```
 Les binaires se trouveront alors dans leurs dossiers respectifs, et il vous suffira de le lancer comme ceci : 
 ```bash
-$ ./asm/asm [fichier_contenant_un_champion]
-$ ./corewar/corewar [1er_champion] [2eme_champion] [3eme_champion] [4eme_champion]
-$ ./bonus/corewar [1er_champion] [2eme_champion] [3eme_champion] [4eme_champion]
+$ ./tetris
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174324257-643359eb-7f57-478c-85c6-128e540f568f.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174745410-5d25f436-2e2b-4a23-bc48-53fb88cc2317.png">
 </p>
 
 ---
