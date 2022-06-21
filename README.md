@@ -22,12 +22,13 @@ Le projet va se réaliser en deux grandes parties, en premier le debug mode, qui
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91092610/174744406-d40d0d46-32d3-4598-a1e2-011713d89689.png"/>
 </p>
+La deuxième partie est bien évidemment la partie graphique et donc le jeu en lui même vu sur l'image plus haut.
 
 ---
 
 ## Fonctions Autorisées : 
 
-- (f)open, (f)read, (f)write, getline, lseek, fseek, (f)close, malloc, realloc, free, exit.
+- rand, srand, getopt, getopt_long, clock, et toute les fonctions utilisées pour les projets PSU jusqu'à maintenant.
 
 ---
 
