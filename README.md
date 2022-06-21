@@ -18,10 +18,10 @@ Le **Tetris** est un projet de milieu d'année à Epitech, dont le but est de re
 
 ## Description :
 
-Le projet se sépare en plusieurs grande parties : 
-- L'assembleur, dont le rôle va être de récupérer les code des "champions" (qui sont les programmes destiné à combattre dans la machine virtuelle) et qui va être capable de comprendre le language utilisé, et ainsi créer un binaire qui puisse être exécuter par la machine virtuelle.
-- La machine virtuelle, qui va permettre de comprendre les fichiers binaires envoyés par l'assembleur, de les interprêter et qui va pouvoir les exécuter et abriter le combat entre les champions. 
-- Les champions, qui vont être codé dans un language redcode qui va pouvoir être interprêter par l'assembleur et qui vont pouvoir se combattre dans la machine virtuelle.
+Le projet va se réaliser en deux grandes parties, en premier le debug mode, qui va permettre d'afficher les paramètres du tetris et qui va donner beaucoup de possibilités, tel que les changements de touches pour diriger les formes, les tourner, ou même la taille de l'écran de jeu. De plus le debug mode va aussi analyser les fichiers contenus dans le dossier tetriminos (dossier contenant toutes les formes qui vont être utilisé dans le jeu) et ne va pas s'exécuter si ils contiennent une erreur. 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91092610/174744406-d40d0d46-32d3-4598-a1e2-011713d89689.png"/>
+</p>
 
 ---
 
