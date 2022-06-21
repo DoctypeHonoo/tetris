@@ -9,7 +9,7 @@
 
 ## Motivation : 
 
-Le **Tetris** est un projet de milieu d'année à Epitech, dont le but est de recréer le célèbre jeu Tetris avec la librairie ncurses, dans un terminal.
+Le **Tetris** est un projet de milieu d'année à Epitech, dont le but est de recréer le célèbre jeu Tetris dans un terminal avec les règles de la version Gameboy. Le projet doit s'effectuer en utilisant la librairie ncurses, comme représenté si dessous.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91092610/174625760-f9e6d3c0-781b-41ac-8057-a00f092cefba.png"/>
 </p>
