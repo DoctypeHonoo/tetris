@@ -11,7 +11,7 @@
 
 Le **Tetris** est un projet de milieu d'année à Epitech, dont le but est de recréer le célèbre jeu Tetris avec la librairie ncurses, dans un terminal.
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/91092610/174625085-4efd2554-fdff-4197-a669-6d9631881b55.png](https://user-images.githubusercontent.com/91092610/174625760-f9e6d3c0-781b-41ac-8057-a00f092cefba.png)"/>
+  <img src="https://user-images.githubusercontent.com/91092610/174625760-f9e6d3c0-781b-41ac-8057-a00f092cefba.png"/>
 </p>
 
 ---
