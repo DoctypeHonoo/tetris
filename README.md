@@ -9,7 +9,7 @@
 
 ## Motivation : 
 
-Le **Tetris** est un projet de milieu d'année à Epitech, dont le but est de recréer le célèbre jeu Tetris dans un terminal avec les règles de la version Gameboy. Le projet doit s'effectuer en utilisant la librairie ncurses, comme représenté si dessous.
+Le **Tetris** est un projet de milieu d'année à Epitech a réalisé en duo, dont le but est de recréer le célèbre jeu Tetris dans un terminal avec les règles de la version Gameboy. Le projet doit s'effectuer en utilisant la librairie ncurses, comme représenté si dessous.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91092610/174625760-f9e6d3c0-781b-41ac-8057-a00f092cefba.png"/>
 </p>
@@ -52,8 +52,11 @@ $ ./tetris
 
 ## Comment l'utiliser ? : 
 
-Notre corewar possède un asm fonctionnelle qui permet de fournir un binaire exécutable par l'interprêteur. De plus nous avons une machine virtuelle avec un interprêteur graphique réalisé en CSFML, se trouvant dans le dossier `bonus`. Malheureusement, en raison de la difficulté du projet, nous ne sommes pas parvenu à simuler un combat entre les programmes, cependant, ceux-ci se compilent et s'affiche correctement dans la machine virtuelle graphique.
-
+Notre Tetris possède un Debug mode totallement fonctionnel, mais la version graphique du jeu n'a pas encore été réalisée. Comme vu plus haut, pour afficher la totalité du debug mode, il suffit d'inclure le -D dans la ligne d'exécution du binaire : 
+```bash
+$ ./tetris -D
+```
+Pour modifier tout autres paramètres, il suffit d'utiliser le - associer : 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174324680-877675c7-df21-46e5-bc8a-01379c644ab8.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174747739-a1630497-701d-4fba-b893-ebb43d89e758.png">
 </p>
